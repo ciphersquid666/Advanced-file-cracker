@@ -29,17 +29,17 @@ python FileCracker.py
 
 
 
-#Usage 📖
+# Usage 📖
 
 To recover a ZIP/RAR password, simply provide the file and the desired method (brute force or wordlist).
 
 Modify the config file to suit your preferences.
 
 
-#Contributing 🤝
+# Contributing 🤝
 
 Feel free to fork and improve the tool. Pull requests are welcome! 🌱
 
-#License 📄
+# License 📄
 
 This project is licensed under the MIT License. See the LICENSE file for details.
